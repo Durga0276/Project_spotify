@@ -2,31 +2,31 @@
   {
   'schema':'dbo',
   'table' :'dimuser',
-  'col' :'updated_at'
+  'col' :'updated_at',
   'from_date' :''
   },
   {
   'schema':'dbo',
   'table' :'dimtrack',
-  'col' :'updated_at'
+  'col' :'updated_at',
   'from_date' :''
   },
   {
   'schema':'dbo',
   'table' :'dimartist',
-  'col' :'updated_at'
+  'col' :'updated_at',
   'from_date' :''
   },
   {
   'schema':'dbo',
   'table' :'dimdate',
-  'col' :'updated_at'
+  'col' :'updated_at',
   'from_date' :''
   },
   {
   'schema':'dbo',
   'table' :'factstream',
-  'col' :'updated_at'
+  'col' :'updated_at',
   'from_date' :''
   }
 ]
