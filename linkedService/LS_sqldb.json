@@ -1,0 +1,17 @@
+{
+	"name": "LS_sqldb",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "durgasqldb.database.windows.net",
+			"database": "durgasqldb",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "srbha5",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEY5RENDQzE0LTE4ODktNDVFRi1CQzlDLTc3MjUwNEM3MEU1Q184M2Q3NTEwMi1kZGQyLTRmYjUtYjQxMy0xYjE2NWRjZTAyMjAiDQp9"
+		}
+	}
+}
